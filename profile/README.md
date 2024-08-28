@@ -15,14 +15,14 @@ Pull in repository
 
 
 ###
-`
-cd path/to/submodule
-git pull origin main
-cd ../..
-`
+
+`cd path/to/submodule`
+`git pull origin main`
+`cd ../..`
+
 ##
-`
-git add path/to/submodule
-git commit -m "Update submodule(s)"
-git push origin [branch-name]
-`
+
+`git add path/to/submodule`
+`git commit -m "Update submodule(s)"`
+`git push origin [branch-name]`
+
