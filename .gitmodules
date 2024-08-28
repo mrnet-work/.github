@@ -1,0 +1,15 @@
+[submodule "submodules/watchtower-yml"]
+	path = submodules/watchtower-yml
+	url = git@github.com:mrnet-work/watchtower-yml.git
+[submodule "submodules/portainer-yml"]
+	path = submodules/portainer-yml
+	url = git@github.com:mrnet-work/portainer-yml.git
+[submodule "submodules/minio-yml"]
+	path = submodules/minio-yml
+	url = git@github.com:mrnet-work/minio-yml.git
+[submodule "submodules/nginx_proxy_manager-yml"]
+	path = submodules/nginx_proxy_manager-yml
+	url = git@github.com:mrnet-work/nginx_proxy_manager-yml.git
+[submodule "submodules/ghost-yml"]
+	path = submodules/ghost-yml
+	url = git@github.com:mrnet-work/ghost-yml.git
