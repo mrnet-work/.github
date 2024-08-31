@@ -13,3 +13,6 @@
 [submodule "submodules/ghost-yml"]
 	path = submodules/ghost-yml
 	url = git@github.com:mrnet-work/ghost-yml.git
+[submodule "submodules/nostr-yml"]
+	path = submodules/nostr-yml
+	url = git@github.com:mrnet-work/nostr-yml.git
