@@ -1,25 +1,9 @@
-This organization is for Melody Ranch Networking.
+MELODY RANCH NETWORKS
 
-###
-
-Pull in repository
-
-`git clone git@github.com:mrnet-work/.github.git`
-
-`git submodule init`
-
-`git submodule update --recursive --remote`
+Business Identifier: FM0887884
+Business Name: MELODY RANCH NETWORKS
+Business Type: BC Sole Proprietorship
 
 
-###
-
-`cd path/to/submodule`
-`git pull origin main`
-`cd ../..`
-
-##
-
-`git add path/to/submodule`
-`git commit -m "Update submodule(s)"`
-`git push origin [branch-name]`
-
+NOTE: This business is simply registered so I have the legal right to use this name on my projects. 
+- I am currently not generating any income for this business name.
